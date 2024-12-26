@@ -1,0 +1,13 @@
+.carousel-inner{
+    height : 300px;
+    
+}
+h5{
+    color:black;
+}
+.container{
+    display:flex;
+}
+.col-md-5{
+    background : cover;
+}
